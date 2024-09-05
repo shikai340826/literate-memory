@@ -10,6 +10,7 @@
   let sum = ref(0);
   function increment() {
     sum.value += 1;
+    console.log(111);
   }
 </script>
 
